@@ -1,5 +1,5 @@
-Desenvolvedor Web Júnior  
-Python | FastAPI | Django | React  
+Junior Web Developer
+Python | FastAPI | Django | React | Node.js | NestJs
 
-Em busca de oportunidades como Dev Júnior  
-Contato: andre.piratello.zanini@gmail.com
+Seeking opportunities as a Junior Developer
+Contact: andre.piratello.zanini@gmail.com
