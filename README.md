@@ -1,5 +1,5 @@
 Junior Web Developer
 | Spring Boot • APIs REST | React • TypeScript |
 
-Seeking opportunities as a Junior Developer
+Working as a Junior Developer at Educadoc
 Contact: andre.piratello.zanini@gmail.com
